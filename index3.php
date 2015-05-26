@@ -38,7 +38,7 @@ if(isset($_POST['login_btn']))
                 <div class="col-xs-12">
                     <div class="jumbotron" style="background: url('http://imgur.com/C0q5Tie.jpg');">
                         <h1 style="color: white">Welcome to Murdoch HDR system</h1>
-                            <p style="color:white">Murdoch University is one of the leading research universities in Australia and prides itself on the quality and depth of its research. Home to a supportive, stimulating environment, we provide research students with high quality training in an international context.</p>
+                            <p style="color:white">urdoch University is one of the leading research universities in Australia and prides itself on the quality and depth of its research. Home to a supportive, stimulating environment, we provide research students with high quality training in an international context.</p>
 							<p style="color:white">We have very strong research links with industry which ensures that our research students are trained in areas of national and international relevance. This takes our students to the leading edge of their disciplines and aligns them with current and future industry and society needs.</p>
                    <!--     <p><a class="btn btn-primary btn-lg">Read More</a></p>-->
 <div class="panel-group" id="accordion">
